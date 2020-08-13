@@ -1,5 +1,5 @@
 const container: HTMLElement | any = document.getElementById("app");
-const pokemons: number = 100;
+const pokemons: number = 150;
 
 interface IPokemon {
 	id: number;
